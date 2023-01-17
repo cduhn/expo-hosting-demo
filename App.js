@@ -5,7 +5,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import ExpoScreen from './screens/ExpoScreen';
 import NativeScreen from './screens/NativeScreen';
 import StackScreen from './screens/StackScreen';
-// import { NativeTopView } from 'native-top-view';
+import { NativeTopView } from 'native-top-view';
 
 // An app that presents a tab bar with three tabs. Two just present simple views
 // and the third presents a stack of three screens. The stack screen presents
