@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios"],
+  "ios": {
+    "modules": ["NativeTopViewModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.nativetopview.NativeTopViewModule"]
+  }
+}
